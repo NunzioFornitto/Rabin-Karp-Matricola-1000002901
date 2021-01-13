@@ -4,7 +4,7 @@ using namespace std;
 
 
 /* d is the number of characters in the input alphabet,
-(total number of characters ASCII)*/
+( Total number of characters ASCII )*/
 const int   d = 256;
 
 void search(char pat[], char txt[], int q)
