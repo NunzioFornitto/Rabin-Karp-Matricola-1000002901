@@ -1,1 +1,1 @@
-void search(char pat[], char txt[], int q);
+void search(char pat[], char txt[], int q); 
