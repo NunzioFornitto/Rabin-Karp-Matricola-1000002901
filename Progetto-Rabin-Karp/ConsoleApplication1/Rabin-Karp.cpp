@@ -62,3 +62,4 @@ void search(char pat[], char txt[], int q)
 		}
 	}
 }
+//Questo è un esempio.
